@@ -1,0 +1,6 @@
+@import 'node_modules/@oblique/oblique/styles/css/oblique-core.css';
+@import 'node_modules/@oblique/oblique/styles/css/frutiger.css';
+
+ob-alert {
+  margin: 1rem;
+}
